@@ -114,7 +114,7 @@ contract NftMarketplace {
         emit ItemCancelled(msg.sender, nftAddress, tokenId);
     }
 
-    function updateListings(
+    function updateListing(
         address nftAddress,
         uint256 tokenId,
         uint256 newPrice
