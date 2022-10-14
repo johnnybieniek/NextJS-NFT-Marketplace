@@ -2,7 +2,7 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/janbieniek/Desktop/Web3-fullstack/nextjs-nft/contracts/NftMarketplace.sol": {
-      "lastModificationDate": 1665443168788,
+      "lastModificationDate": 1665535134584,
       "contentHash": "2fbf1ae0d0d3b93bc2ed8f406441938a",
       "sourceName": "contracts/NftMarketplace.sol",
       "solcConfig": {
@@ -32,7 +32,8 @@
           },
           "metadata": {
             "useLiteralContent": true
-          }
+          },
+          "libraries": {}
         }
       },
       "imports": [
@@ -77,7 +78,8 @@
           },
           "metadata": {
             "useLiteralContent": true
-          }
+          },
+          "libraries": {}
         }
       },
       "imports": [
@@ -121,7 +123,8 @@
           },
           "metadata": {
             "useLiteralContent": true
-          }
+          },
+          "libraries": {}
         }
       },
       "imports": [],
@@ -163,7 +166,8 @@
           },
           "metadata": {
             "useLiteralContent": true
-          }
+          },
+          "libraries": {}
         }
       },
       "imports": [],
@@ -205,7 +209,8 @@
           },
           "metadata": {
             "useLiteralContent": true
-          }
+          },
+          "libraries": {}
         }
       },
       "imports": [
@@ -249,7 +254,8 @@
           },
           "metadata": {
             "useLiteralContent": true
-          }
+          },
+          "libraries": {}
         }
       },
       "imports": [
@@ -299,7 +305,8 @@
           },
           "metadata": {
             "useLiteralContent": true
-          }
+          },
+          "libraries": {}
         }
       },
       "imports": [],
@@ -341,7 +348,8 @@
           },
           "metadata": {
             "useLiteralContent": true
-          }
+          },
+          "libraries": {}
         }
       },
       "imports": [],
@@ -383,7 +391,8 @@
           },
           "metadata": {
             "useLiteralContent": true
-          }
+          },
+          "libraries": {}
         }
       },
       "imports": [],
@@ -425,7 +434,8 @@
           },
           "metadata": {
             "useLiteralContent": true
-          }
+          },
+          "libraries": {}
         }
       },
       "imports": [],
@@ -467,7 +477,8 @@
           },
           "metadata": {
             "useLiteralContent": true
-          }
+          },
+          "libraries": {}
         }
       },
       "imports": [
@@ -511,7 +522,8 @@
           },
           "metadata": {
             "useLiteralContent": true
-          }
+          },
+          "libraries": {}
         }
       },
       "imports": [
@@ -555,7 +567,8 @@
           },
           "metadata": {
             "useLiteralContent": true
-          }
+          },
+          "libraries": {}
         }
       },
       "imports": [
